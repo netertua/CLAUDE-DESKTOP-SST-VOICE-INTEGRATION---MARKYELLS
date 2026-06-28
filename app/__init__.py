@@ -1,0 +1,1 @@
+"""MARKYELLS — Markyells için MLX tabanlı masaüstü uygulaması."""

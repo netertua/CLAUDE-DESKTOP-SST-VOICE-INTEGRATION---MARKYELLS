@@ -1,0 +1,16 @@
+{
+  "show_warning_on_startup": true,
+  "warning_duration_seconds": 10,
+  "record_seconds": 5,
+  "reckon_shortcut_enabled": true,
+  "shortcut_mode": "single",
+  "shortcut_key1": "f8",
+  "shortcut_key2": "shift",
+  "auto_paste": true,
+  "ptt_mode": "hold",
+  "mic_device_index": null,
+  "speech_language": "auto",
+  "speech_engine_override": "auto",
+  "tts_enabled": true,
+  "auto_listen_test_on_startup": true
+}

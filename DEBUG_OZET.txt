@@ -1,0 +1,40 @@
+========================================
+  MARKYELLS — DEBUG SONUC (GUNCEL)
+========================================
+
+KARAR: TEMIZ — FALLBACK YOK, TRACEBACK YOK
+
+  [OK] Backend: PySide6 Qt (luxury GUI)
+  [OK] Fallback (CustomTkinter): KULLANILMADI
+  [OK] Traceback: YOK
+  [OK] PyQt cakismasi: YOK
+  [OK] GUI acildi: OK
+  [OK] GUI kapandi (X ile): EXIT CODE 0
+  [OK] Engine: faster_whisper
+
+----------------------------------------
+EXIT CODE 1 NE DEMEK?
+----------------------------------------
+  Arka plandaki GUI exit=1 gorunduyse:
+  -> Debug sirasinda python zorla kapatildi (taskkill)
+  -> Bu UYGULAMA HATASI DEGIL
+
+  Normal X ile kapaninca: EXIT 0 (test edildi)
+
+----------------------------------------
+SORUN OLSAYDI GORURDUK:
+----------------------------------------
+  x "CustomTkinter LEGACY fallback"
+  x "Traceback (most recent call last)"
+  x CTK_LOADED: True
+
+  HICBIRI YOK.
+
+----------------------------------------
+TERMINAL OLMADAN:
+----------------------------------------
+  START_GUI.bat     -> GUI ac (siyah pencere yok)
+  RUN_DEBUG_NOW.bat -> debug + Notepad sonuc
+  DEBUG_LAST_RESULT.txt -> tam log
+
+========================================
